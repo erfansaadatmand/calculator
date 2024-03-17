@@ -1,25 +1,23 @@
-# Calculator App in ReactJS
+## Build a Calculator App in ReactJS
 
-Hey there! I'm Deep Sekhar Ghosh, a seasoned web developer with over a year of experience. This project is a culmination of my knowledge and skills in React JS, aimed at beginners and enthusiasts looking to delve into React development.
+### About
+Hi there! In this course, we'll dive into building a simple calculator app using ReactJS. Throughout the course, we'll cover essential concepts that are beneficial for beginners in ReactJS development and beyond.
 
-## Overview
-In this course, I guide you through building a simple yet functional calculator app using React JS. Along the way, I also discuss key concepts and techniques essential for beginners in React development, ensuring a comprehensive learning experience.
+### Course Structure
+The course is divided into various small sections, making it easier for beginners to grasp specific topics separately. While primarily aimed at beginners, anyone with a foundational understanding of React can benefit from this course and enjoy working on this simple yet enjoyable project.
 
-## Course Structure
-I've organized the course into several manageable sections, each focusing on specific topics to facilitate learning and understanding. This structured approach caters to beginners while providing valuable insights for those seeking to expand their React JS proficiency.
+### Approach
+The course aims to explain complex concepts in the simplest possible manner, complemented by practical examples in the videos.
 
-## What You'll Learn
-- Gain deeper insights into React JS development
-- Understand functional components in React JS
-- Build a practical project from scratch
-- Explore Modular CSS in React for better code organization
-- Learn JavaScript techniques such as string evaluation
+### Prerequisites
+- Basic knowledge of HTML, CSS, JS, and ReactJS is required for this course.
 
-## Prerequisites
-Before diving into this course, it's beneficial to have a basic understanding of HTML, CSS, JavaScript, and React JS. This will ensure you get the most out of the learning experience.
+### What You'll Learn
+- Delve deeper into ReactJS development
+- Understand functional components in ReactJS
+- Build a small yet functional project
+- Explore Modular CSS in React
+- Learn advanced JavaScript techniques, such as string evaluation
 
-## Who Should Take This Course
-This course is tailored for individuals new to web development or those looking to enhance their skills in React JS. Whether you're just starting out or seeking to bolster your React proficiency, this course is designed to meet your learning needs.
-
-Let's embark on this journey together and unlock the potential of React JS development!
-
+This course is suitable for:
+- Beginners in web development
