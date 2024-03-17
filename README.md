@@ -1,23 +1,13 @@
-## Build a Calculator App in ReactJS
+## Calculator App with ReactJS
 
-### About
-Hi there! In this course, we'll dive into building a simple calculator app using ReactJS. Throughout the course, we'll cover essential concepts that are beneficial for beginners in ReactJS development and beyond.
-
-### Course Structure
-The course is divided into various small sections, making it easier for beginners to grasp specific topics separately. While primarily aimed at beginners, anyone with a foundational understanding of React can benefit from this course and enjoy working on this simple yet enjoyable project.
-
-### Approach
-The course aims to explain complex concepts in the simplest possible manner, complemented by practical examples in the videos.
-
-### Prerequisites
-- Basic knowledge of HTML, CSS, JS, and ReactJS is required for this course.
+### Overview
+In this course from Udemy, instructed by [Deep Sekhar Ghosh](https://www.udemy.com/user/deep-sekhar-ghosh/), I learned how to build a calculator app using ReactJS. Here's what I gained from the course:
 
 ### What You'll Learn
-- Delve deeper into ReactJS development
-- Understand functional components in ReactJS
-- Build a small yet functional project
-- Explore Modular CSS in React
-- Learn advanced JavaScript techniques, such as string evaluation
+- **Deep Dive into React JS Development**: Expanded my understanding of React JS and its core concepts.
+- **Functional Components in React JS**: Learned about functional components and their role in React JS applications.
+- **Building a Small Project**: Developed a small yet functional calculator application, enhancing my practical skills.
+- **Modular CSS in React**: Explored modular CSS techniques specific to React, improving the organization and maintainability of stylesheets.
+- **Advanced JavaScript Techniques**: Expanded my knowledge of JavaScript, including topics like evaluating strings.
 
-This course is suitable for:
-- Beginners in web development
+This course is suitable for beginners looking to deepen their understanding of React JS and build practical projects.
